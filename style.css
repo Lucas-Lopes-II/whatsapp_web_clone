@@ -138,3 +138,12 @@ ul {
 .boxContato:hover{
     background-color: #F4F5F5;
 }
+
+.chatAtivo {
+    background-color: #E9EBEB;
+}
+
+.chatAtivo.boxContato:hover{
+    background-color: #E9EBEB;
+}
+
