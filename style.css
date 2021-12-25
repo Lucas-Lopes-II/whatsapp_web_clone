@@ -11,5 +11,12 @@ ul {
 #container {
     height: 100vh;
     position: relative;
-    
+}
+
+/* side bar */
+#sideBar {
+    width: 410px;
+    height: 100%;
+    display: inline-block;
+    position: relative;
 }
