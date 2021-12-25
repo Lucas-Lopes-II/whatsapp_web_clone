@@ -166,3 +166,38 @@ ul {
     color: #000;
     margin-bottom: 15px;
 }
+.previewMenssage {
+    font-size: 14px;
+    color: #454545;
+}
+
+.fa-check-double {
+    margin-right: 5px;
+    color: #4FC3F7;
+}
+
+.infoMenssage {
+    position: absolute;
+    top: 12px;
+    right: 20px;
+    display: inline-block;
+}
+
+.infoMenssage .horario {
+    font-size: 12px;
+    margin-bottom: 5px;
+    color: #CCC;
+}
+
+.menssagePendente {
+    background-color: #09D261;
+    color: #FFF;
+    width: 19px;
+    height: 19px;
+    line-height: 19px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 50%;
+    text-align: center;
+    float: right;
+}
