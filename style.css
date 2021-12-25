@@ -147,3 +147,22 @@ ul {
     background-color: #E9EBEB;
 }
 
+.boxContato .fotoUsuario{
+    width: 50px;
+}
+
+.ifoUsuario {
+    margin-left: 15px;
+    padding-top: 10px;
+    display: inline-block;
+}
+
+.ifoUsuario p, .infoMenssage p {
+    margin: 0;
+}
+
+.nomeUsuario {
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 15px;
+}
