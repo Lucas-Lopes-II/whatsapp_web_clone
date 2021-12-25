@@ -118,3 +118,8 @@ ul {
     color: #BDC1C3;
 }
 
+/* Container de Contatos */
+#containerContatos {
+    height: auto;
+    background-color: #FFF;
+}
