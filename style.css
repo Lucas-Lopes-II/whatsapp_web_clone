@@ -203,6 +203,14 @@ ul {
     float: right;
 }
 
+/* CHAT */
+
 /* Container Chat */
 #chatArea {
+    position: absolute;
+    top: 0;
+    left: 410px;
+    width: calc(100% - 410px);
+    height: 100%;
+    background-color: #CCC;
 }
