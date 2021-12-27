@@ -6,8 +6,6 @@
 
 ## 👨‍💻Tecnologias usadas
 
-✔ JavaScript
-
 ✔ HTML
 
 ✔ CSS
