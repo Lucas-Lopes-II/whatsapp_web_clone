@@ -57,6 +57,7 @@ ul {
     color: #384C56;
     position: relative;
     box-sizing: border-box;
+    cursor: pointer;
 }
 
 .fas.fa-bell-slash {
