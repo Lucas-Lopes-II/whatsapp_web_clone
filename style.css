@@ -191,7 +191,7 @@ ul {
 }
 
 .menssagePendente {
-    background-color: #09D261;
+    background-color: #04fa67;
     color: #FFF;
     width: 19px;
     height: 19px;
@@ -225,7 +225,7 @@ ul {
 #chatNavBar p {
     margin: 0;
     float: right;
-    margin-left: 15px;
+    margin-left: 20px;
 }
 
 #containerContactInfo {
@@ -240,7 +240,6 @@ ul {
 
 #containerFerramentasChat {
     float: right;
-    display: inline-block;
     height: 60px;
     line-height: 60px;
     margin-right: 20px;
