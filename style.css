@@ -214,3 +214,42 @@ ul {
     height: 100%;
     background-color: #CCC;
 }
+
+/* Chat Navbar */
+#chatNavBar {
+    height: 60px;
+    background-color: #EEE;
+    border-left: 1px solid #DDD;
+}
+
+#chatNavBar p {
+    margin: 0;
+    float: right;
+    margin-left: 15px;
+}
+
+#containerContactInfo {
+    display: inline-block;
+}
+
+#containerContactInfo .nomeUsuario {
+    font-size: 16px;
+    height: 60px;
+    line-height: 60px;
+}
+
+#containerFerramentasChat {
+    float: right;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+    margin-right: 20px;
+}
+
+#containerFerramentasChat li {
+    display: inline-block;
+    margin: 0 15px 0 15px;
+    font-size: 18px;
+    color: #80868A;
+    cursor: pointer;
+}
