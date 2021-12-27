@@ -322,3 +322,38 @@ ul {
     top: 0;
     right: -10px;
 }
+
+/* Enviar Menssagem */
+.containerEnviarMenssage {
+    background-color: #EFEFEF;
+    border-left: 1px solid #DDD;
+    height: 60px;
+    padding: 0 20px 0 20px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+#inputUsuario {
+    position: absolute;
+    top: 10px;
+    left: 60px;
+    background-color: #FFF;
+    border: none;
+    width: calc(89% - 20px);
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 20px;
+    font-size: 16px;
+}
+
+.containerEnviarMenssage i {
+    font-size: 24px;
+    color: #80868A;
+    cursor: pointer;
+    height: 60px;
+    line-height: 60px;
+}
+
+.fa-microphone{
+    float: right;
+}
