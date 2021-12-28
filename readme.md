@@ -2,7 +2,7 @@
 <br/>
 
 ![WhatsApp Web](./img/readme/whats.gif)
-<br/><br/>
+<br/><br/><br/>
 
 ## 👨‍💻Tecnologias usadas
 
